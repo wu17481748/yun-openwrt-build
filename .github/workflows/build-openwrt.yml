@@ -20,7 +20,7 @@ on:
         default: 'true'
 
 env:
-  REPO_URL: https://github.com/HandsomeMod/HandsomeMod
+  REPO_URL: https://github.com/wu17481748/HandsomeMod.git
   REPO_BRANCH: master
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
